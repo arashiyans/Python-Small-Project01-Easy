@@ -1,1 +1,2 @@
-# python-small-project
+# create a number guessing game
+
